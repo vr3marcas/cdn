@@ -14364,7 +14364,7 @@ ul.panel-actions > li {
   padding-left: 0;
   padding-bottom: 10px; }
   .panel-group-simple .panel-title:before, .panel-group-simple .panel-title:after {
-    left: 153px; }
+    right: 5px; }
 .panel-group-simple .panel-collapse .panel-body {
   padding-left: 0;
   padding-right: 0;
