@@ -976,7 +976,7 @@ Theme Primary Color
   border: 1px solid #475F7B; }
 .theme-primary .box.box-solid.box-primary > .box-header {
   color: #ffffff;
-  background-color: #475F7B; }
+  background: linear-gradient(45deg, #5A8DEE, #00CFDD); }
   .theme-primary .box.box-solid.box-primary > .box-header .btn {
     color: #ffffff; }
   .theme-primary .box.box-solid.box-primary > .box-header > a {
